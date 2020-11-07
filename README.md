@@ -56,7 +56,7 @@ Any     CR2032 battery                                                1
 
 
 Notes / Optional parts:
-RS      1929967  VMK-R010-1.0-U Resistor 0.01R 1% 1206 1.W            1  R1 replacement
+RS      1929967  VMK-R010-1.0-U Resistor 0.01R 1% 1206 1.5W           1  R1 replacement
 R4 can be replaced by any 0805 resistor of 470 - 1k value, 1 - 5 %    1  R4 replacement
 R6, R7 might be cheaper to buy on Ebay due to lower shipping costs
 LED - any 0805 led with Forward voltage around 2V should work
