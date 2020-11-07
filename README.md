@@ -72,7 +72,7 @@ solder the parts in the following order:
 * battery holder
 * bannana plug solder tags (cut them to size first)
 * LED on the top side of the PCB
-* slide switches (ensure the CK letters are facing the top ebge of the PCB)
+* slide switches (ensure the CK letters are facing the top edge of the PCB)
 * optionally install extra 2 standoffs into the case. You might need to
   heat the standoffs to help to melt the case a bit while screwing them in.
   Check the standoff_detail.jpg in the img directory.
