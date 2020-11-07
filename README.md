@@ -74,9 +74,15 @@ solder the parts in the following order:
 * LED on the top side of the PCB
 * slide switches (ensure the CK letters are facing the top ebge of the PCB)
 * optionally install extra 2 standoffs into the case. You might need to
-  heat the standoffs to help to melt the case a bit while screwing them in.  
+  heat the standoffs to help to melt the case a bit while screwing them in.
+  Check the standoff_detail.jpg in the img directory.
 
 ## Notes
-The original unaltered documentation in PDF format is located in the doc directry.
-It contains additional information and schematic.
+* The original unaltered documentation in PDF format is located in the doc directory.
+  It contains additional information and schematic.
+* The design file can be modified in gEDA PCB CAD software. It is a free 
+  and multiplatform tool. http://pcb.geda-project.org/
+* The gerbers zip file can be uploaded to most of the cheap asian online manufacturing
+  services without modifications. It is a dual layer PCB, 1.2 or 1.6 mm thickness. 
+  Please DO NOT use Red color to clearly distinguish this is a clone.
 
